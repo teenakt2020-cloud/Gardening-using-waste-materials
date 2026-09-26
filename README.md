@@ -1,2 +1,2 @@
 # Gardening-using-waste-materials
-this project is based on creating a simple garden using waste materials such as plastic bottle, tire of two wheeler , containers and other re usable items. It promotes reusability.
+this project is based on creating a simple garden using waste materials such as plastic bottle, tyre of two wheeler , containers and other reusable items. It promotes reusability.
